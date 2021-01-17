@@ -1,4 +1,4 @@
-# cmtt-special-vue-template
+# Quiz for VTB
 
 ## Project setup
 ```
